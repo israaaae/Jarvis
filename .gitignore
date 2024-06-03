@@ -1,0 +1,6 @@
+#hada gitignore fihcier kan7to fih dakchi lli mabghinach ymchi l github 7it public
+/.venv
+/contacts.csv
+/jarvis.db
+/device.bat
+engine/cookies.json
